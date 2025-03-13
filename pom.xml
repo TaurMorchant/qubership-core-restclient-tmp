@@ -18,7 +18,7 @@
 
     <properties>
         <sonar.coverage.jacoco.xmlReportPaths>
-            ${project.basedir}/../microservice-restclient-report-aggregate/target/site/jacoco-aggregate/jacoco.xml
+            ${project.basedir}/microservice-restclient-report-aggregate/target/site/jacoco-aggregate/jacoco.xml
         </sonar.coverage.jacoco.xmlReportPaths>
     </properties>
 
