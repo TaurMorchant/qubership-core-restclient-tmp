@@ -13,3 +13,4 @@ jobs:
         secrets:
             maven-token: ${{ secrets.GITHUB_TOKEN }}
             sonar-token: ${{ secrets.SONAR_TOKEN }}
+
